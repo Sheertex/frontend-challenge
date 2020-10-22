@@ -46,8 +46,7 @@ Is there anything we might not have noticed that you’d like to point out?
 
 
 
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+--------
 
 ## Available Scripts
 
