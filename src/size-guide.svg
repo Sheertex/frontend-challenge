@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="560px" height="244px" viewBox="0 0 560 244" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 1 527 1 527 2 0 2"></polygon>
+        <polygon id="path-3" points="0 1 527 1 527 2 0 2"></polygon>
+        <polygon id="path-5" points="0 1 527 1 527 2 0 2"></polygon>
+        <polygon id="path-7" points="0 1 527 1 527 2 0 2"></polygon>
+        <polygon id="path-9" points="0 0 44 0 44 11 0 11"></polygon>
+        <polygon id="path-11" points="0 0 50 0 50 11 0 11"></polygon>
+        <polygon id="path-13" points="0 0 26 0 26 11 0 11"></polygon>
+    </defs>
+    <g id="1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Fill-1" fill="#E8E8F2" points="103 231 544 231 544 55 103 55"></polygon>
+        <text id="S" font-family="Agrandir-Medium, Agrandir" font-size="12" font-weight="400" fill="#000000">
+            <tspan x="55" y="75">S</tspan>
+        </text>
+        <text id="M" font-family="Agrandir-Medium, Agrandir" font-size="12" font-weight="400" fill="#000000">
+            <tspan x="53" y="110">M</tspan>
+        </text>
+        <text id="L" font-family="Agrandir-Medium, Agrandir" font-size="12" font-weight="400" fill="#000000">
+            <tspan x="56" y="145">L</tspan>
+        </text>
+        <text id="XL" font-family="Agrandir-Medium, Agrandir" font-size="12" font-weight="400" letter-spacing="0.107" fill="#000000">
+            <tspan x="51" y="180">XL</tspan>
+        </text>
+        <text id="2–3XL" font-family="Agrandir-Medium, Agrandir" font-size="12" font-weight="400" letter-spacing="0.11" fill="#000000">
+            <tspan x="41" y="215">2–3XL</tspan>
+        </text>
+        <line x1="103.5" y1="230" x2="103.5" y2="55" id="Stroke-2" stroke="#949494" stroke-width="0.5"></line>
+        <g id="Group-6" transform="translate(16.000000, 89.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-5"></g>
+            <line x1="0" y1="1.5" x2="527" y2="1.5" id="Stroke-4" stroke="#949494" stroke-width="0.5" mask="url(#mask-2)"></line>
+        </g>
+        <g id="Group-9" transform="translate(16.000000, 124.000000)">
+            <mask id="mask-4" fill="white">
+                <use xlink:href="#path-3"></use>
+            </mask>
+            <g id="Clip-8"></g>
+            <line x1="0" y1="1.5" x2="527" y2="1.5" id="Stroke-7" stroke="#949494" stroke-width="0.5" mask="url(#mask-4)"></line>
+        </g>
+        <g id="Group-12" transform="translate(16.000000, 159.000000)">
+            <mask id="mask-6" fill="white">
+                <use xlink:href="#path-5"></use>
+            </mask>
+            <g id="Clip-11"></g>
+            <line x1="0" y1="1.5" x2="527" y2="1.5" id="Stroke-10" stroke="#949494" stroke-width="0.5" mask="url(#mask-6)"></line>
+        </g>
+        <g id="Group-15" transform="translate(16.000000, 194.000000)">
+            <mask id="mask-8" fill="white">
+                <use xlink:href="#path-7"></use>
+            </mask>
+            <g id="Clip-14"></g>
+            <line x1="0" y1="1.5" x2="527" y2="1.5" id="Stroke-13" stroke="#949494" stroke-width="0.5" mask="url(#mask-8)"></line>
+        </g>
+        <text id="100-–-120-LBS" font-family="Agrandir-Medium, Agrandir" font-size="12" font-weight="400" letter-spacing="1.29" fill="#000000">
+            <tspan x="122" y="75">100 – 120 LBS </tspan>
+        </text>
+        <line x1="249.5" y1="230" x2="249.5" y2="55" id="Stroke-17" stroke="#949494" stroke-width="0.5"></line>
+        <text id="105-–-125-LBS" font-family="Agrandir-Medium, Agrandir" font-size="12" font-weight="400" letter-spacing="1.29" fill="#000000">
+            <tspan x="270" y="75">105 – 125 LBS </tspan>
+        </text>
+        <text id="120-–-145-LBS" font-family="Agrandir-Medium, Agrandir" font-size="12" font-weight="400" letter-spacing="1.29" fill="#000000">
+            <tspan x="123" y="110">120 – 145 LBS </tspan>
+        </text>
+        <text id="145-–-175-LBS" font-family="Agrandir-Medium, Agrandir" font-size="12" font-weight="400" letter-spacing="1.29" fill="#000000">
+            <tspan x="127" y="145">145 – 175 LBS</tspan>
+        </text>
+        <text id="175-–-220-LBS" font-family="Agrandir-Medium, Agrandir" font-size="12" font-weight="400" letter-spacing="1.29" fill="#000000">
+            <tspan x="126" y="180">175 – 220 LBS</tspan>
+        </text>
+        <text id="220-–-295-LBS" font-family="Agrandir-Medium, Agrandir" font-size="12" font-weight="400" letter-spacing="1.29" fill="#000000">
+            <tspan x="124" y="215">220 – 295 LBS</tspan>
+        </text>
+        <text id="125-–-150-LBS" font-family="Agrandir-Medium, Agrandir" font-size="12" font-weight="400" letter-spacing="1.29" fill="#000000">
+            <tspan x="270" y="110">125 – 150 LBS </tspan>
+        </text>
+        <text id="150-–-180-LBS" font-family="Agrandir-Medium, Agrandir" font-size="12" font-weight="400" letter-spacing="1.29" fill="#000000">
+            <tspan x="270" y="145">150 – 180 LBS </tspan>
+        </text>
+        <text id="180-–-225-LBS" font-family="Agrandir-Medium, Agrandir" font-size="12" font-weight="400" letter-spacing="1.29" fill="#000000">
+            <tspan x="270" y="180">180 – 225 LBS </tspan>
+        </text>
+        <text id="225-–-300-LBS" font-family="Agrandir-Medium, Agrandir" font-size="12" font-weight="400" letter-spacing="1.29" fill="#000000">
+            <tspan x="268" y="215">225 – 300 LBS </tspan>
+        </text>
+        <text id="110-–-130-LBS" font-family="Agrandir-Medium, Agrandir" font-size="12" font-weight="400" letter-spacing="1.29" fill="#000000">
+            <tspan x="417" y="75">110 – 130 LBS </tspan>
+        </text>
+        <text id="130-–-155-LBS" font-family="Agrandir-Medium, Agrandir" font-size="12" font-weight="400" letter-spacing="1.29" fill="#000000">
+            <tspan x="417" y="110">130 – 155 LBS </tspan>
+        </text>
+        <text id="155-–-185-LBS" font-family="Agrandir-Medium, Agrandir" font-size="12" font-weight="400" letter-spacing="1.29" fill="#000000">
+            <tspan x="420" y="145">155 – 185 LBS</tspan>
+        </text>
+        <text id="185-–-230-LBS" font-family="Agrandir-Medium, Agrandir" font-size="12" font-weight="400" letter-spacing="1.29" fill="#000000">
+            <tspan x="417" y="180">185 – 230 LBS </tspan>
+        </text>
+        <text id="230-–-305-LBS" font-family="Agrandir-Medium, Agrandir" font-size="12" font-weight="400" letter-spacing="1.29" fill="#000000">
+            <tspan x="418" y="215">230 – 305 LBS</tspan>
+        </text>
+        <g id="Group-23" transform="translate(158.000000, 14.000000)">
+            <mask id="mask-10" fill="white">
+                <use xlink:href="#path-9"></use>
+            </mask>
+            <g id="Clip-22"></g>
+            <text id="SHORT" mask="url(#mask-10)" font-family="Agrandir-Medium, Agrandir" font-size="10" font-weight="400" letter-spacing="1.67" fill="#000000">
+                <tspan x="0" y="8">SHORT</tspan>
+                <tspan x="43.03" y="8" letter-spacing="0.107"> </tspan>
+            </text>
+        </g>
+        <text id="(4'11&quot;-–-5'2&quot;)" font-family="Agrandir-Medium, Agrandir" font-size="10" font-weight="400" letter-spacing="1.29" fill="#000000">
+            <tspan x="144" y="35">(4'11" – 5'2") </tspan>
+        </text>
+        <g id="Group-25" transform="translate(299.000000, 14.000000)">
+            <mask id="mask-12" fill="white">
+                <use xlink:href="#path-11"></use>
+            </mask>
+            <g id="Clip-24"></g>
+            <text id="REGULAR" mask="url(#mask-12)" font-family="Agrandir-Medium, Agrandir" font-size="10" font-weight="400" letter-spacing="0.107" fill="#000000">
+                <tspan x="0" y="8">REGULAR</tspan>
+            </text>
+        </g>
+        <text id="(5'3&quot;-–-5'7&quot;)" font-family="Agrandir-Medium, Agrandir" font-size="10" font-weight="400" letter-spacing="1.29" fill="#000000">
+            <tspan x="293" y="35">(5'3" – 5'7") </tspan>
+        </text>
+        <g id="Group-27" transform="translate(458.000000, 14.000000)">
+            <mask id="mask-14" fill="white">
+                <use xlink:href="#path-13"></use>
+            </mask>
+            <g id="Clip-26"></g>
+            <text id="TALL-" mask="url(#mask-14)" font-family="Agrandir-Medium, Agrandir" font-size="10" font-weight="400" letter-spacing="0.107" fill="#000000">
+                <tspan x="0" y="8">TALL </tspan>
+            </text>
+        </g>
+        <text id="(5'8&quot;-–-6'1&quot;)" font-family="Agrandir-Medium, Agrandir" font-size="10" font-weight="400" letter-spacing="1.29" fill="#000000">
+            <tspan x="441" y="35">(5'8" – 6'1") </tspan>
+        </text>
+        <polygon id="Stroke-28" stroke="#949494" stroke-width="0.5" points="16 231 544 231 544 55 16 55"></polygon>
+        <line x1="396.5" y1="230" x2="396.5" y2="55" id="Stroke-19" stroke="#949494" stroke-width="0.5"></line>
+    </g>
+</svg>
