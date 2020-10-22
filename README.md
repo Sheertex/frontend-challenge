@@ -9,8 +9,15 @@ We ask that you set aside about 3 hours to complete the exercise. If you’re ha
 
 Your challenge is to code a calculator that can determine the best-fitting size for a customer based on their inputted measurements.
 
-Here is the size chart: 
-SIZE CHART IMAGE
+Here is the size guide: 
+
+![Size Guide](https://github.com/Sheertex/frontend-challenge/blob/main/src/size-guide.svg)
+
+Here is an example interface for the inputs:
+
+![Size Guide](https://github.com/Sheertex/frontend-challenge/blob/main/example.png)
+
+
 
 A mobile-friendly version has also been provided. 
 
