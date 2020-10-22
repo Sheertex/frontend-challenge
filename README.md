@@ -1,3 +1,45 @@
+# Sheertex Front End Development Challenge
+## Size Guide Calculator Exercise
+
+### Time Expectations
+
+We ask that you set aside about 3 hours to complete the exercise. If you’re having a blast, you’re welcome to go over, but we respect your time. We don’t expect a fully production-ready result in 3 hours, and part of what we’re interested in is seeing how you prioritize your work given a tight time constraint. During the interview there will be the opportunity to discuss what else you would like to see before considering your deliverable production ready.
+
+### The Exercise
+
+Your challenge is to code a calculator that can determine the best-fitting size for a customer based on their inputted measurements.
+
+Here is the size chart: 
+SIZE CHART IMAGE
+
+A mobile-friendly version has also been provided. 
+
+### Required Features
+
+- A user can enter their height and weight.
+- They will be shown the correct size based on the inputted height and weight for the product. 
+- The user can toggle between metric and imperial units.
+
+You can build your app to look like the example above, but you don’t have to. If you’re someone who loves CSS and UI work, show us that. Approach this task as your way of displaying your favourite parts of development. Take inspiration from the web, and feel free to get creative! 
+
+### What We're Looking For
+
+- We have provided a simple [`create-react-app`]('https://github.com/facebook/create-react-app') with the necessary size guides as SVGs to get you started. Beyond that, feel free to use whatever plugins, frameworks or libraries you’d like. 
+- Please provide a readme. If we need to run the code locally, please provide instructions for doing so. 
+- We’d like for your solution to showcase what excites you about frontend development. Do you live for performance? UX? Writing tests? Show us that. We’re aware of the time constraints. If what you’re excited about takes time, please put comments in to describe your approach!
+
+### Evaluation
+Once you’ve submitted your solution for this challenge, we will want to discuss a few things with you. In order to help you prepare, here are some of the things we’ll be interested in discussing:
+- If this were a real “on-the-job” task, is there anything you would do differently?
+- What would you change or add before considering your code production ready?
+- What (if any) decisions and tradeoffs did you make during design and implementation that you might consider important to discuss if this were a real “on-the-job” task? These could be UI/UX tradeoffs, architecture tradeoffs, performance tradeoffs, etc.
+Is there anything we might not have noticed that you’d like to point out?
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
